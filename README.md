@@ -21,7 +21,7 @@
 
 ⚡ In my free time I spend time with my wife, cook and play games.
 
-📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-somoza-005660197/)
+📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-somoza-005660197/)
 
 ---
 
