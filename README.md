@@ -14,9 +14,13 @@
 ### :man_technologist: About Me : 
 
 🔭 I’m looking for a company where I can gain experience working as a Software Engineer, ideally in a Web3 company but open to any possibility. Feel free to contact me!
+
 📚 I'm currently ending my Electronics Engineering Bachelor's Degree.
+
 🌱 Actively investigating crypto projects and protocols.
+
 ⚡ In my free time I spend time with my wife, cook and play games.
+
 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-somoza-005660197/)
 
 ---
@@ -30,11 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
