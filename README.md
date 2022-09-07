@@ -23,7 +23,7 @@
 
 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-somoza-005660197/)
 
-🙋‍♂️ Languages: Spanish native, English Advanced (C1)
+🙋‍♂️ Languages: Spanish Native, English Advanced (C1)
 
 ---
 
