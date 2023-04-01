@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me : 
 
-🔭 Blockchain Data Analyst for Migalabs.
+🔭 Blockchain Data Analyst for [Migalabs](https://migalabs.es/).
 
 📚 I'm currently ending my Electronics Engineering Bachelor's Degree.
 
