@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me : 
 
-🔭 I’m looking for a company where I can gain experience working as a Software Engineer, ideally in a Web3 company but open to any possibility. Feel free to contact me!
+🔭 Blockchain Data Analyst for Migalabs.
 
 📚 I'm currently ending my Electronics Engineering Bachelor's Degree.
 
