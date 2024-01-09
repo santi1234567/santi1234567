@@ -15,7 +15,7 @@
 
 🔭 Fullstack Blockchain Software Developer for [Migalabs](https://migalabs.io/).
 
-📚 I'm currently ending my Electronics Engineering Bachelor's Degree.
+📚 Electronics Engineer.
 
 🌱 Actively investigating crypto projects and protocols.
 
