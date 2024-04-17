@@ -30,11 +30,3 @@
 
 - Features Merged on [goteth](https://github.com/migalabs/goteth)
 - Developed [eth-pokhar](https://github.com/migalabs/eth-pokhar), used to source entities data for [eth-seer](https://github.com/migalabs/eth-seer)
-   
----
-
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santi1234567&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santi1234567&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
