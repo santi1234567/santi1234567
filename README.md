@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Santiago</h1>
-<h4 align="center">Fullstack Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and blockchain enthusiast from Argentina - 25 years old</h4>
+<h4 align="center">Blockchain Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and blockchain enthusiast from Argentina - 25 years old</h4>
 </div>
 
 
