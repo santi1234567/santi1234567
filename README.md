@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me: 
 
-🔭 Fullstack Blockchain Software Developer for [Migalabs](https://migalabs.io/).
+🔭 Blockchain Backend Engineer for [Migalabs](https://migalabs.io/).
 
 📚 Electronics Engineer.
 
