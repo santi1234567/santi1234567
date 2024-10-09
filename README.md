@@ -29,5 +29,5 @@
 ## 👾 Opensource Contributions:
 
 ### PR merged on [Blockprint](https://github.com/sigp/blockprint/pull/33)
-### Features Merged on [goteth](https://github.com/migalabs/goteth) and [ragno](https://github.com/migalabs/ragno)
+### [goteth](https://github.com/migalabs/goteth) and [ragno](https://github.com/migalabs/ragno) maintainer
 ### Developed [eth-pokhar](https://github.com/migalabs/eth-pokhar), used to source entities data for [eth-seer](https://github.com/migalabs/eth-seer)
