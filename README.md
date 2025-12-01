@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Hi, I'm Santiago</h1>
-<h4 align="center">Blockchain Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and blockchain enthusiast from Argentina - 25 years old</h4>
+<h4 align="center">Blockchain/Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and blockchain enthusiast from Argentina - 26 years old</h4>
 </div>
 
 
 ### :man_technologist: About Me: 
 
-🔭 Blockchain Backend Engineer for [Migalabs](https://migalabs.io/).
+🔭 Backend Engineer at [POAP](https://github.com/poap-xyz). Ex Blockchain Engineer for [Migalabs](https://migalabs.io/).
 
 📚 Electronics Engineer.
 
@@ -29,5 +29,5 @@
 ## 👾 Opensource Contributions:
 
 ### PR merged on [Blockprint](https://github.com/sigp/blockprint/pull/33)
-### [goteth](https://github.com/migalabs/goteth) and [ragno](https://github.com/migalabs/ragno) maintainer
-### Developed [eth-pokhar](https://github.com/migalabs/eth-pokhar), used to source entities data for [eth-seer](https://github.com/migalabs/eth-seer)
+### Maintained [goteth](https://github.com/migalabs/goteth).
+### Developed [eth-pokhar](https://github.com/migalabs/eth-pokhar), used to source entities data for [migalabs.io](https://migalabs.io)
